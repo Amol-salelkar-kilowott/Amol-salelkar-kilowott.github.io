@@ -1,6 +1,13 @@
-<style>
-body {
-background-color: Violet
+body{
+    background-color: Violet
 }
-</style>
-<body>
+p{
+    font-weight: 200;
+    line-height: 1.6;
+
+}
+
+.container{
+    background-color:blue
+
+}
