@@ -7,7 +7,11 @@ p{
 
 }
 
-.container{
-    background-color:blue
+.main-container{
+    position :absolute;
+  
 
+}
+.padding{
+    padding: 25px 50px 75px 100px;
 }
