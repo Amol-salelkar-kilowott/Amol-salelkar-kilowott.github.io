@@ -2,13 +2,17 @@ body{
     background-color: Violet
 }
 p{
-    font-weight: 200;
-    line-height: 1.6;
+    font-weight: 700;
+    line-height: 2;
 
 }
 
 .main-container{
     position :absolute;
+   
+    width:300px;
+     initial-value:1;
+
   
 
 }
