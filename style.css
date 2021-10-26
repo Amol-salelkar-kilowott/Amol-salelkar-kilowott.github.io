@@ -5,4 +5,8 @@
 .col-lg-9{
     background-color:  #979292;
     height: 600px;
+    border-left: red;
+}
+.footer{
+    background-color: #ef5d57
 }
