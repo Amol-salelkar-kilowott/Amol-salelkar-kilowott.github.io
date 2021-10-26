@@ -3,10 +3,11 @@
     background-color: white;
 }
 .col-lg-9{
-    background-color:  #979292;
+    background-color:#979292;
     height: 600px;
-    border-left:5px, red ;
+    border-left:red;
 }
 .footer{
     background-color: #ef5d57
+    
 }
